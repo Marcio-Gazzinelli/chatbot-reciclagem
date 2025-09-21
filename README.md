@@ -32,7 +32,31 @@ O chatbot fornecerá respostas claras e práticas, tornando o descarte e a recic
 
 ---
 
-## 5 Diagrama de Caso de Uso
+## 5 Os Requisitos Do Projeto
+
+### Requisitos Funcionais
+O chatbot deverá:
+
+1. Responder perguntas sobre descarte correto de diferentes tipos de resíduos (plásticos, vidro, pilhas/baterias, eletrônicos, papel, orgânicos, etc.).  
+2. Fornecer instruções claras e didáticas sobre como reciclar ou descartar corretamente cada tipo de resíduo.  
+3. Sugerir alternativas de reutilização e reaproveitamento de materiais sempre que possível.  
+4. Responder perguntas frequentes (FAQ) previamente cadastradas na base de dados.  
+5. Permitir interação via texto.  
+6. Consultar uma base de dados estruturada de perguntas e respostas para gerar as respostas ao usuário.  
+
+### Requisitos Não Funcionais
+O chatbot deverá:
+
+1. Ter tempo de resposta rápido (≤ 10 segundos) para interação com o usuário.  
+2. Ser intuitivo e fácil de usar, mesmo para pessoas sem experiência em tecnologia.  
+3. Possuir base de dados fácil de atualizar e manter, permitindo inclusão de novas perguntas e respostas.  
+4. Ser compatível com diferentes dispositivos.  
+5. Documentação clara e organizada no repositório GitHub, para fácil entendimento e manutenção.  
+6. Ser seguro, sem armazenar informações pessoais sensíveis dos usuários.
+   
+---
+
+## 6 Diagrama de Caso de Uso
 -
             +-------------------+
             |    Usuário        |
@@ -59,4 +83,4 @@ Fluxo principal: Usuário pergunta → Chatbot consulta base → Chatbot respond
 
 ---
 
-## [Planejamento e Requisitos no GitHub Projects](https://github.com/users/Marcio-Gazzinelli/projects/1/views/1)
+## [Ir Para o GitHub Projects](https://github.com/users/Marcio-Gazzinelli/projects/1/views/1)
