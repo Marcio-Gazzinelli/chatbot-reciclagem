@@ -41,7 +41,7 @@ O chatbot deverá:
 2. Fornecer instruções claras e didáticas sobre como reciclar ou descartar corretamente cada tipo de resíduo.  
 3. Sugerir alternativas de reutilização e reaproveitamento de materiais sempre que possível.  
 4. Responder perguntas frequentes (FAQ) previamente cadastradas na base de dados.  
-5. Permitir interação via texto.  
+5. Permitir interação via texto, oferecendo respostas para perguntas pré cadastradas  
 6. Consultar uma base de dados estruturada de perguntas e respostas para gerar as respostas ao usuário.  
 
 ### Requisitos Não Funcionais
@@ -78,7 +78,9 @@ O chatbot deverá:
           +---------------------+
 
 Ator principal: Usuário
+
 Sistema: Chatbot de reciclagem
+
 Fluxo principal: Usuário pergunta → Chatbot consulta base → Chatbot responde
 
 ---
