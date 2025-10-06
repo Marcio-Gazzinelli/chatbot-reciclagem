@@ -70,3 +70,13 @@ Ele facilita a comunicação entre desenvolvedores e stakeholders, permitindo vi
 - O **Nível 3 (Componentes)** aprofunda na estrutura interna do chatbot, evidenciando a lógica de funcionamento.
 
 Essa abordagem ajuda a manter a clareza do projeto, facilitar futuras expansões (como incluir novos tipos de resíduos ou integrar APIs externas) e garantir a manutenibilidade do código.
+
+### Nível 1 — Contexto do Sistema
+![Diagrama de Contexto](docs/imagens/nivel1.png)
+
+### Nível 2 — Contêineres
+![Diagrama de Contêineres](docs/imagens/nivel2.png)
+
+### Nível 3 — Componentes
+![Diagrama de Componentes](docs/imagens/nivel3.png)
+
